@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "age": 28,
+      "gender": "female",
+      "phone": "+81 965-431-3024",
+      "country": "United States",
+      "active": true
+    },
+    {
+      "id": 2,
+      "firstName": "Michael",
+      "lastName": "Williams",
+      "age": 50,
+      "gender": "male",
+      "phone": "+49 258-627-6644",
+      "country": "Japan",
+      "active": true
+    },
+    {
+      "id": 3,
+      "firstName": "Sophia",
+      "lastName": "Brown",
+      "age": 42,
+      "gender": "female",
+      "phone": "+81 210-652-2785",
+      "country": "Germany",
+      "active": false
+    },
+    {
+      "id": 4,
+      "firstName": "James",
+      "lastName": "Davis",
+      "age": 35,
+      "gender": "male",
+      "phone": "+49 614-958-9364",
+      "country": "United States",
+      "active": true
+    },
+    {
+      "id": 5,
+      "firstName": "Emma",
+      "lastName": "Miller",
+      "age": 22,
+      "gender": "female",
+      "phone": "+91 759-776-1614",
+      "country": "Canada",
+      "active": true
+    },
+    {
+      "id": 6,
+      "firstName": "Ashley",
+      "lastName": "Davis",
+      "age": 45,
+      "gender": "female",
+      "phone": "+50 85-776-87524",
+      "country": "Australia",
+      "active": false
+    },
+    {
+      "id": 7,
+      "firstName": "James",
+      "lastName": "Miller",
+      "age": 30,
+      "gender": "male",
+      "phone": "+91 759-587-1614",
+      "country": "Sweden",
+      "active": true
+    },
+    {
+      "id": 8,
+      "firstName": "John",
+      "lastName": "Smith",
+      "age": 22,
+      "gender": "male",
+      "phone": "+84 79-776-1614",
+      "country": "Canada",
+      "active": false
+    },
+    {
+      "id": 9,
+      "firstName": "Emma",
+      "lastName": "Miller",
+      "age": 55,
+      "gender": "female",
+      "phone": "+14 584-776-1614",
+      "country": "Mexico",
+      "active": true
+    },
+    {
+      "id": 10,
+      "firstName": "Olivia",
+      "lastName": "Thompson",
+      "age": 34,
+      "gender": "female",
+      "phone": "+25 895-1584-454",
+      "country": "Italy",
+      "active": true
+    }
+  ]
+}
+
