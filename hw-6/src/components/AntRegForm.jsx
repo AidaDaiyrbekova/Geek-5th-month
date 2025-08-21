@@ -9,7 +9,7 @@ export const AntRegForm = () => {
         form={form}
         layout="vertical" 
         onFinish={(data) => {
-            console.log("Данные пользователя: ", data);
+            console.log("Данные пользователя: ", data)
             toast.success("Данные успешно отправлены!")
              form.resetFields()}}> 
 
@@ -28,10 +28,10 @@ export const AntRegForm = () => {
              { type: "email", message: "Адрес электронной почты недействителен!" },
           {
             validator: (_, value) => {
-              if (!value) return Promise.resolve();
-              const [local, domain] = value.split("@");
+              if (!value) return Promise.resolve()
+              const [local, domain] = value.split("@")
               if (local?.length >= 2 && domain?.includes(".")) {
-                return Promise.resolve();
+                return Promise.resolve()
               }
               return Promise.reject(
                 "Адрес электронной почты должен содержать не менее 2 символов перед «@» и действительный домен."
