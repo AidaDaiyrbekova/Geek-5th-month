@@ -1,0 +1,18 @@
+.about {
+  padding: 10px;
+  line-height: 1.6;
+}
+
+.about h2 {
+  color: #34495e;
+}
+
+.about p {
+  color: #666;
+}
+.about img {
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    border: 3px solid rgba(27, 51, 99, 0.53);
+}
